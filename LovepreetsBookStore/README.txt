@@ -8,3 +8,5 @@
 10:41 pm Changed to navbar dark from light and bg white to primary
 10:53 pm Added additional properties to footer class
 11:06 pm Added additional stylesheets and scripts from css_js.txt file to _Layout.cshtml
+13/11/2022
+1:58 am added dropdown to navbar
