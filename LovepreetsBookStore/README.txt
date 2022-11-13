@@ -10,3 +10,4 @@
 11:06 pm Added additional stylesheets and scripts from css_js.txt file to _Layout.cshtml
 13/11/2022
 1:58 am added dropdown to navbar
+2:14 am added three new projects to the application
