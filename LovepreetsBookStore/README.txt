@@ -4,3 +4,4 @@
 10:07 Debug Tested
 10:15 Selected Solar Theme
 10:22 Replaced the existing site.css file
+10:29 Changed the file name in views folder
