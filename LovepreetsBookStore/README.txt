@@ -11,3 +11,4 @@
 13/11/2022
 1:58 am added dropdown to navbar
 2:14 am added three new projects to the application
+2:23 am Installed microsoft entity framework core.relational and core.sqlserver
