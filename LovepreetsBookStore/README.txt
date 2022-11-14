@@ -13,3 +13,4 @@
 2:14 am added three new projects to the application
 2:23 am Installed microsoft entity framework core.relational and core.sqlserver
 2:33 am deleted the migrations folder
+8:53 pm deleted default class1.cs file in all projects
