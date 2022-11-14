@@ -90,3 +90,9 @@ C:\Users\lovep\Desktop\BookStore\LovepreetsBookStore\obj\Debug\netcoreapp3.1\Lov
 C:\Users\lovep\Desktop\BookStore\LovepreetsBookStore\obj\Debug\netcoreapp3.1\LovepreetsBookStore.dll
 C:\Users\lovep\Desktop\BookStore\LovepreetsBookStore\obj\Debug\netcoreapp3.1\LovepreetsBookStore.pdb
 C:\Users\lovep\Desktop\BookStore\LovepreetsBookStore\obj\Debug\netcoreapp3.1\LovepreetsBookStore.genruntimeconfig.cache
+C:\Users\lovep\Desktop\BookStore\LovepreetsBookStore\bin\Debug\netcoreapp3.1\LovepreetsBooks.DataAccess.dll
+C:\Users\lovep\Desktop\BookStore\LovepreetsBookStore\bin\Debug\netcoreapp3.1\LovepreetsBooks.Models.dll
+C:\Users\lovep\Desktop\BookStore\LovepreetsBookStore\bin\Debug\netcoreapp3.1\LovepreetsBooks.DataAccess.pdb
+C:\Users\lovep\Desktop\BookStore\LovepreetsBookStore\bin\Debug\netcoreapp3.1\LovepreetsBooks.Models.pdb
+C:\Users\lovep\Desktop\BookStore\LovepreetsBookStore\bin\Debug\netcoreapp3.1\LovepreetsBooks.Utility.dll
+C:\Users\lovep\Desktop\BookStore\LovepreetsBookStore\bin\Debug\netcoreapp3.1\LovepreetsBooks.Utility.pdb

@@ -31,9 +31,13 @@
     ".NETCoreApp,Version=v3.1": {
       "LovepreetsBookStore/1.0.0": {
         "dependencies": {
+          "LovepreetsBooks.DataAccess": "1.0.0",
+          "LovepreetsBooks.Models": "1.0.0",
+          "LovepreetsBooks.Utility": "1.0.0",
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "3.1.30",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "3.1.30",
           "Microsoft.AspNetCore.Identity.UI": "3.1.30",
+          "Microsoft.EntityFrameworkCore.Relational": "3.1.30",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.30",
           "Microsoft.EntityFrameworkCore.Tools": "3.1.30",
           "Microsoft.AspNetCore.Antiforgery": "3.1.0.0",
@@ -1456,6 +1460,37 @@
           "System.Threading": "4.3.0",
           "System.Xml.ReaderWriter": "4.3.0",
           "System.Xml.XmlDocument": "4.3.0"
+        }
+      },
+      "LovepreetsBooks.DataAccess/1.0.0": {
+        "dependencies": {
+          "LovepreetsBooks.Models": "1.0.0",
+          "LovepreetsBooks.Utility": "1.0.0",
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "3.1.30",
+          "Microsoft.EntityFrameworkCore.Relational": "3.1.30",
+          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.30"
+        },
+        "runtime": {
+          "LovepreetsBooks.DataAccess.dll": {}
+        },
+        "compile": {
+          "LovepreetsBooks.DataAccess.dll": {}
+        }
+      },
+      "LovepreetsBooks.Models/1.0.0": {
+        "runtime": {
+          "LovepreetsBooks.Models.dll": {}
+        },
+        "compile": {
+          "LovepreetsBooks.Models.dll": {}
+        }
+      },
+      "LovepreetsBooks.Utility/1.0.0": {
+        "runtime": {
+          "LovepreetsBooks.Utility.dll": {}
+        },
+        "compile": {
+          "LovepreetsBooks.Utility.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/3.1.0.0": {
@@ -3778,6 +3813,21 @@
       "sha512": "sha512-MYoTCP7EZ98RrANESW05J5ZwskKDoN0AuZ06ZflnowE50LTpbR5yRg3tHckTVm5j/m47stuGgCrCHWePyHS70Q==",
       "path": "system.xml.xmlserializer/4.3.0",
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    },
+    "LovepreetsBooks.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LovepreetsBooks.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LovepreetsBooks.Utility/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "Microsoft.AspNetCore.Antiforgery/3.1.0.0": {
       "type": "referenceassembly",

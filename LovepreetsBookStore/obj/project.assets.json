@@ -1775,6 +1775,43 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
+      },
+      "LovepreetsBooks.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "LovepreetsBooks.Models": "1.0.0",
+          "LovepreetsBooks.Utility": "1.0.0",
+          "Microsoft.AspNetCore.Identity.EntityframeworkCore": "3.1.30",
+          "Microsoft.EntityFrameworkCore.Relational": "3.1.30",
+          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.30"
+        },
+        "compile": {
+          "bin/placeholder/LovepreetsBooks.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LovepreetsBooks.DataAccess.dll": {}
+        }
+      },
+      "LovepreetsBooks.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/LovepreetsBooks.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LovepreetsBooks.Models.dll": {}
+        }
+      },
+      "LovepreetsBooks.Utility/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/LovepreetsBooks.Utility.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LovepreetsBooks.Utility.dll": {}
+        }
       }
     }
   },
@@ -5940,10 +5977,28 @@
         "system.xml.xmlserializer.4.3.0.nupkg.sha512",
         "system.xml.xmlserializer.nuspec"
       ]
+    },
+    "LovepreetsBooks.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../LovepreetsBooks.DataAccess/LovepreetsBooks.DataAccess.csproj",
+      "msbuildProject": "../LovepreetsBooks.DataAccess/LovepreetsBooks.DataAccess.csproj"
+    },
+    "LovepreetsBooks.Models/1.0.0": {
+      "type": "project",
+      "path": "../LovepreetsBooks.Models/LovepreetsBooks.Models.csproj",
+      "msbuildProject": "../LovepreetsBooks.Models/LovepreetsBooks.Models.csproj"
+    },
+    "LovepreetsBooks.Utility/1.0.0": {
+      "type": "project",
+      "path": "../LovepreetsBooks.Utility/LovepreetsBooks.Utility.csproj",
+      "msbuildProject": "../LovepreetsBooks.Utility/LovepreetsBooks.Utility.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "LovepreetsBooks.DataAccess >= 1.0.0",
+      "LovepreetsBooks.Models >= 1.0.0",
+      "LovepreetsBooks.Utility >= 1.0.0",
       "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 3.1.30",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 3.1.30",
       "Microsoft.AspNetCore.Identity.UI >= 3.1.30",
@@ -5978,7 +6033,17 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\lovep\\Desktop\\BookStore\\LovepreetsBooks.DataAccess\\LovepreetsBooks.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\lovep\\Desktop\\BookStore\\LovepreetsBooks.DataAccess\\LovepreetsBooks.DataAccess.csproj"
+            },
+            "C:\\Users\\lovep\\Desktop\\BookStore\\LovepreetsBooks.Models\\LovepreetsBooks.Models.csproj": {
+              "projectPath": "C:\\Users\\lovep\\Desktop\\BookStore\\LovepreetsBooks.Models\\LovepreetsBooks.Models.csproj"
+            },
+            "C:\\Users\\lovep\\Desktop\\BookStore\\LovepreetsBooks.Utility\\LovepreetsBooks.Utility.csproj": {
+              "projectPath": "C:\\Users\\lovep\\Desktop\\BookStore\\LovepreetsBooks.Utility\\LovepreetsBooks.Utility.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
