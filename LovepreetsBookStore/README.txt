@@ -17,3 +17,4 @@
 9:24 pm renamed models folder to viewModels
 9:26 pm modified startup.cs service
 9:30 pm runned the application and reviewed the browser presentation
+9:33 pm modified the properties of class
