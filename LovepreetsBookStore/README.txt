@@ -18,3 +18,4 @@
 9:26 pm modified startup.cs service
 9:30 pm runned the application and reviewed the browser presentation
 9:33 pm modified the properties of class
+9:35 pm Added customers area to areas
