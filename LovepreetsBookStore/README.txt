@@ -16,3 +16,4 @@
 8:53 pm deleted default class1.cs file in all projects
 9:24 pm renamed models folder to viewModels
 9:26 pm modified startup.cs service
+9:30 pm runned the application and reviewed the browser presentation
