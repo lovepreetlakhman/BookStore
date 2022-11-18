@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lovep\\Desktop\\BookStore\\LovepreetsBooks.DataAccess\\LovepreetsBooks.DataAccess.csproj": {}
+    "C:\\Users\\lovep\\Source\\Repos\\lovepreetlakhman\\BookStore\\LovepreetsBooks.DataAccess\\LovepreetsBooks.DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lovep\\Desktop\\BookStore\\LovepreetsBooks.DataAccess\\LovepreetsBooks.DataAccess.csproj": {
+    "C:\\Users\\lovep\\Source\\Repos\\lovepreetlakhman\\BookStore\\LovepreetsBooks.DataAccess\\LovepreetsBooks.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lovep\\Desktop\\BookStore\\LovepreetsBooks.DataAccess\\LovepreetsBooks.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\lovep\\Source\\Repos\\lovepreetlakhman\\BookStore\\LovepreetsBooks.DataAccess\\LovepreetsBooks.DataAccess.csproj",
         "projectName": "LovepreetsBooks.DataAccess",
-        "projectPath": "C:\\Users\\lovep\\Desktop\\BookStore\\LovepreetsBooks.DataAccess\\LovepreetsBooks.DataAccess.csproj",
+        "projectPath": "C:\\Users\\lovep\\Source\\Repos\\lovepreetlakhman\\BookStore\\LovepreetsBooks.DataAccess\\LovepreetsBooks.DataAccess.csproj",
         "packagesPath": "C:\\Users\\lovep\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lovep\\Desktop\\BookStore\\LovepreetsBooks.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\lovep\\Source\\Repos\\lovepreetlakhman\\BookStore\\LovepreetsBooks.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lovep\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\lovep\\Desktop\\BookStore\\LovepreetsBooks.Models\\LovepreetsBooks.Models.csproj": {
-                "projectPath": "C:\\Users\\lovep\\Desktop\\BookStore\\LovepreetsBooks.Models\\LovepreetsBooks.Models.csproj"
+              "C:\\Users\\lovep\\Source\\Repos\\lovepreetlakhman\\BookStore\\LovepreetsBooks.Models\\LovepreetsBooks.Models.csproj": {
+                "projectPath": "C:\\Users\\lovep\\Source\\Repos\\lovepreetlakhman\\BookStore\\LovepreetsBooks.Models\\LovepreetsBooks.Models.csproj"
               },
-              "C:\\Users\\lovep\\Desktop\\BookStore\\LovepreetsBooks.Utility\\LovepreetsBooks.Utility.csproj": {
-                "projectPath": "C:\\Users\\lovep\\Desktop\\BookStore\\LovepreetsBooks.Utility\\LovepreetsBooks.Utility.csproj"
+              "C:\\Users\\lovep\\Source\\Repos\\lovepreetlakhman\\BookStore\\LovepreetsBooks.Utility\\LovepreetsBooks.Utility.csproj": {
+                "projectPath": "C:\\Users\\lovep\\Source\\Repos\\lovepreetlakhman\\BookStore\\LovepreetsBooks.Utility\\LovepreetsBooks.Utility.csproj"
               }
             }
           }
@@ -66,8 +66,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -76,18 +75,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.414\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\lovep\\Desktop\\BookStore\\LovepreetsBooks.Models\\LovepreetsBooks.Models.csproj": {
+    "C:\\Users\\lovep\\Source\\Repos\\lovepreetlakhman\\BookStore\\LovepreetsBooks.Models\\LovepreetsBooks.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lovep\\Desktop\\BookStore\\LovepreetsBooks.Models\\LovepreetsBooks.Models.csproj",
+        "projectUniqueName": "C:\\Users\\lovep\\Source\\Repos\\lovepreetlakhman\\BookStore\\LovepreetsBooks.Models\\LovepreetsBooks.Models.csproj",
         "projectName": "LovepreetsBooks.Models",
-        "projectPath": "C:\\Users\\lovep\\Desktop\\BookStore\\LovepreetsBooks.Models\\LovepreetsBooks.Models.csproj",
+        "projectPath": "C:\\Users\\lovep\\Source\\Repos\\lovepreetlakhman\\BookStore\\LovepreetsBooks.Models\\LovepreetsBooks.Models.csproj",
         "packagesPath": "C:\\Users\\lovep\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lovep\\Desktop\\BookStore\\LovepreetsBooks.Models\\obj\\",
+        "outputPath": "C:\\Users\\lovep\\Source\\Repos\\lovepreetlakhman\\BookStore\\LovepreetsBooks.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lovep\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -121,8 +120,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -131,18 +129,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.414\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\lovep\\Desktop\\BookStore\\LovepreetsBooks.Utility\\LovepreetsBooks.Utility.csproj": {
+    "C:\\Users\\lovep\\Source\\Repos\\lovepreetlakhman\\BookStore\\LovepreetsBooks.Utility\\LovepreetsBooks.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lovep\\Desktop\\BookStore\\LovepreetsBooks.Utility\\LovepreetsBooks.Utility.csproj",
+        "projectUniqueName": "C:\\Users\\lovep\\Source\\Repos\\lovepreetlakhman\\BookStore\\LovepreetsBooks.Utility\\LovepreetsBooks.Utility.csproj",
         "projectName": "LovepreetsBooks.Utility",
-        "projectPath": "C:\\Users\\lovep\\Desktop\\BookStore\\LovepreetsBooks.Utility\\LovepreetsBooks.Utility.csproj",
+        "projectPath": "C:\\Users\\lovep\\Source\\Repos\\lovepreetlakhman\\BookStore\\LovepreetsBooks.Utility\\LovepreetsBooks.Utility.csproj",
         "packagesPath": "C:\\Users\\lovep\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lovep\\Desktop\\BookStore\\LovepreetsBooks.Utility\\obj\\",
+        "outputPath": "C:\\Users\\lovep\\Source\\Repos\\lovepreetlakhman\\BookStore\\LovepreetsBooks.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lovep\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -176,8 +174,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -186,7 +183,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.414\\RuntimeIdentifierGraph.json"
         }
       }
     }

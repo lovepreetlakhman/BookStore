@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lovep\\Desktop\\BookStore\\LovepreetsBooks.Models\\LovepreetsBooks.Models.csproj",
+      "projectUniqueName": "C:\\Users\\lovep\\Source\\Repos\\lovepreetlakhman\\BookStore\\LovepreetsBooks.Models\\LovepreetsBooks.Models.csproj",
       "projectName": "LovepreetsBooks.Models",
-      "projectPath": "C:\\Users\\lovep\\Desktop\\BookStore\\LovepreetsBooks.Models\\LovepreetsBooks.Models.csproj",
+      "projectPath": "C:\\Users\\lovep\\Source\\Repos\\lovepreetlakhman\\BookStore\\LovepreetsBooks.Models\\LovepreetsBooks.Models.csproj",
       "packagesPath": "C:\\Users\\lovep\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lovep\\Desktop\\BookStore\\LovepreetsBooks.Models\\obj\\",
+      "outputPath": "C:\\Users\\lovep\\Source\\Repos\\lovepreetlakhman\\BookStore\\LovepreetsBooks.Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lovep\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -51,8 +51,7 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -61,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.414\\RuntimeIdentifierGraph.json"
       }
     }
   }
