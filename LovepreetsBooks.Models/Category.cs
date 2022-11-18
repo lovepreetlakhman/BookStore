@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Text;
 
-namespace LovepreetsBook.Models
+namespace LovepreetsBooks.Models
 {
     public class Category
     {

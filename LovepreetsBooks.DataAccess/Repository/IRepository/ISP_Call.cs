@@ -19,4 +19,3 @@ namespace LovepreetsBooks.DataAccess.Repository.IRepository
         Tuple<IEnumerable<T1>, IEnumerable<T2>> List<T1, T2>(string procedurename, DynamicParameters param = null);
     }
 }
-
