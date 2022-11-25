@@ -350,3 +350,4 @@ C:\Users\lovep\Source\Repos\lovepreetlakhman\BookStore\LovepreetsBookStore\obj\D
 C:\Users\lovep\Source\Repos\lovepreetlakhman\BookStore\LovepreetsBookStore\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
 C:\Users\lovep\Source\Repos\lovepreetlakhman\BookStore\LovepreetsBookStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CreateAndBackToListButton.cshtml.g.cs
 C:\Users\lovep\Source\Repos\lovepreetlakhman\BookStore\LovepreetsBookStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_EditAndBackToListButton.cshtml.g.cs
+C:\Users\lovep\Source\Repos\lovepreetlakhman\BookStore\LovepreetsBookStore\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\CoverType\Index.cshtml.g.cs
