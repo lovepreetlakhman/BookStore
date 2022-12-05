@@ -357,3 +357,4 @@ C:\Users\lovep\Source\Repos\lovepreetlakhman\BookStore\LovepreetsBookStore\bin\D
 C:\Users\lovep\Source\Repos\lovepreetlakhman\BookStore\LovepreetsBookStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
 C:\Users\lovep\Source\Repos\lovepreetlakhman\BookStore\LovepreetsBookStore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
 C:\Users\lovep\Source\Repos\lovepreetlakhman\BookStore\LovepreetsBookStore\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Index.cshtml.g.cs
+C:\Users\lovep\Source\Repos\lovepreetlakhman\BookStore\LovepreetsBookStore\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Upsert.cshtml.g.cs
