@@ -57,3 +57,11 @@
 18/11/2022
 02:22 am There were some errors with git pushing so I solved it and copied the README.txt file
 		 and now am continuing the same step for expected output
+	
+	Assignment 2 part 4 starts here
+    4-12-2022
+    8:45 pm  product list was added to home page
+    9:07 pm restoring the products list to the index view as the home page.
+    9:20 pm listed new prices for product
+    9:42 pm product addition to the project
+    10:40 pm checked the application and runned to test
